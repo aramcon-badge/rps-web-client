@@ -1,9 +1,13 @@
+# rps-web-client
+
+Online version: https://rps-web.netlify.app/
+
 ## Get started
 
 Install the dependencies...
 
 ```bash
-cd rps-client
+cd web-rps-client
 npm install
 ```
 
